@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "E-TDA7377")(type "KiCad")(uri "C:/Users/Goki/Downloads/Compressed/LIB_E-TDA7377/E-TDA7377/KiCad/E-TDA7377.kicad_sym")(options "")(descr ""))
+  (lib (name "E-TDA7377s")(type "KiCad")(uri "C:/Users/Goki/Downloads/Compressed/LIB_E-TDA7377/E-TDA7377/KiCad/E-TDA7377.kicad_sym")(options "")(descr ""))
+  (lib (name "TDA7377")(type "KiCad")(uri "C:/Users/Goki/Downloads/Compressed/TDA7377_2/TDA7377.kicad_sym")(options "")(descr ""))
+)
